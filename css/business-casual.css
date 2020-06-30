@@ -268,3 +268,18 @@ p {
 .font-weight-light {
   font-weight: 100 !important;
 }
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  position: center;
+  color: #df902a
+}
+
+section#contact .section-heading {
+  color: white;
+}
